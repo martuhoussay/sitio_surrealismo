@@ -1,0 +1,346 @@
+* {
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+    
+}
+
+.logo{
+   
+    display: flex;
+    justify-content: center;
+    align-items: center;
+}
+
+.logo img{
+     
+    margin-bottom: 4%;
+    margin-top: 2%;
+}
+
+
+ul li a {
+    text-decoration:none;
+    color: black; 
+    font-family: 'Inter', sans-serif;
+    font-size: 25px;
+    font-weight: bold;
+   
+}
+ul li a:hover {
+   
+   color: rgb(185, 199, 246);
+   
+}
+
+
+
+
+.principal{
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    
+}
+
+.principal img{
+    margin-top: 2%;
+    margin-bottom: 5%;
+    justify-content: center;
+    align-items: center;
+    
+
+}
+
+footer{
+    
+    background-color: rgb(185, 199, 246);
+    height: 80px;
+    font-family: 'Inter', sans-serif;
+    font-size: 25px;
+    font-weight: bold;
+    justify-content: center;
+    text-align: center;
+    
+    margin-left: 5%;
+    margin-right: 5%;
+    margin-bottom: 2%;
+    padding-top: 2%;
+}
+
+footer a{
+    display: inline;
+    text-decoration: none;
+    color: black;
+    margin-left: 5%;
+    margin-right: 5%;
+    
+}
+
+footer a:hover{
+    color:white;
+}
+
+footer p{
+    display: inline;
+    margin-left: 5%;
+    margin-right: 5%;
+   
+}
+
+.imgojos{
+    
+}
+.imgojos img{
+    width:450px;
+}
+
+h2{
+    font-family: 'IM Fell Great Primer SC', serif;
+    font-size: 50px;
+}
+
+.historia{
+    font-family: 'Oxygen', sans-serif;
+    font-size: 25px;
+    text-align: justify;
+}
+
+.manifiesto{
+margin-left:
+}
+
+.manifiestoA{
+    width: 200px;
+   
+}
+
+.manifiestoB{
+    width: 190px;
+ 
+}
+
+.ramaartes{
+    margin-left: ;
+}
+
+.collagehistoria{
+    display: flex;
+    justify-content: center;
+}
+
+.collagehistoria img{
+    
+}
+
+.breton img{
+   
+}
+
+.separador{
+    display: flex;
+    justify-content: center;
+}
+
+.separador img{
+    width: 500px;
+}
+.dalí{
+    display: flex;
+    justify-content: center;
+}
+
+.dalí img{
+    width: 1000px;
+    
+}
+
+.collagedalí{
+    display: flex;
+    justify-content: center;
+}
+
+.collagedalí img{
+   
+}
+
+.magritteimg{
+    display: flex;
+    justify-content: center;
+}
+
+.magritte img{
+    width: 800px;
+}
+
+.magrittetxt img{
+    width: 180px;
+}
+
+.magritte4{
+    display: flex;
+    justify-content: center;
+}
+.magritte4 img{
+    width: 900px;
+}
+
+.titulo{
+    display: flex;
+    justify-content: center;
+}
+
+.imgpintura{
+    display: flex;
+    justify-content: center;
+}
+
+.imgpintura img{
+   width: 770px;
+}
+
+.txtpintura p{
+    display: flex;
+    justify-content: center;
+}
+
+.imgpintura2{
+    display: flex;
+    justify-content: center;
+}
+
+.imgpintura2 img{
+  width: 400px;
+}
+
+h3{
+    font-family: 'IM Fell Great Primer SC', serif;
+    font-size: 60px;
+    font-weight:200;
+}
+
+.imgpintura3{
+    display: flex;
+    justify-content: center;
+}
+
+.imgpintura3 img{
+    width: 500px;
+}
+
+.exposiciones img{
+    width: 700px;
+    height: 500px;
+}
+
+.galería {
+    margin-top: 5%;
+    display: flex;
+    margin-bottom: 10%;
+}
+
+.galería div{
+    width: 100%;
+    padding: 2%;
+    text-align: center;
+    align-items: center;
+}
+.galería div a img{
+    width: 30%;
+    margin-bottom: 2rem;
+    align-content:center;
+    margin-right: 3%;
+
+}
+
+.galería div img:hover{
+    -webkit-transform:scale(1);
+    transform:scale(0.9);
+}
+
+h4{
+    font-family: 'IM Fell Great Primer SC', serif;
+    font-size: 30px;
+    font-weight:200;
+    margin-left: 2%;
+}
+
+h5{
+    margin-top: 5%;
+    font-family: 'IM Fell Great Primer SC', serif;
+    font-size: 40px;
+    margin-left: 10%;
+}
+
+#formcontacto{
+  
+	width:500px;
+	margin:0 auto;
+	padding:15px;	
+}
+#formcontacto input, #formcontacto textarea{
+	width: 100%;
+	padding:5px;
+    margin-bottom: 5%;
+    font-family:  'Oxygen', sans-serif;
+    font-size: 25px;
+    font-weight: 500;
+}
+
+#formcontacto label{
+    display: inline;
+    font-family:  'Oxygen', sans-serif;
+    font-size: 25px;
+    font-weight: 600;
+}
+
+.formulario div{
+    width: 50%;
+}
+
+.formulario{
+    margin-top: 5%;
+    display: flex;
+    
+}
+
+.formulario div img{
+    width: 70%;
+    margin-top: 5%;
+}
+
+.buscador input{
+    margin-top: 2%;
+    border-radius:
+}
+
+.formbuscador{
+    margin-top: 1%;
+}
+
+.botón {
+    background-color: rgb(185, 199, 246);
+}
+
+
+.formcontacto input:hover{
+    background-color: rgb(185, 199, 246);
+    
+}
+
+.caja:hover{
+    background-color: rgb(185, 199, 246);
+}
+
+.imgpintura img:hover{
+    -webkit-transform:scale(1);
+    transform:scale(1.1);
+}
+.imgpintura2 img:hover{
+    -webkit-transform:scale(1);
+    transform:scale(1.1);
+}
+.imgpintura3 img:hover{
+    -webkit-transform:scale(1);
+    transform:scale(1.1);
+}
